@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In Class 7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Title</string>
+    <string name="developer">Developer</string>
+    <string name="date">Release Date</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="thumbnail">Thumb Nail</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="application_image">Application Image</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In Class 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Enter a Number</string>
+    <string name="mainbutton">Next</string>
+    <string name="title_activity_activity">ActivityA</string>
+    <string name="buttonA">Next</string>
+    <string name="finishA">Finish</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="finishB">Finish</string>
+
+</resources>
